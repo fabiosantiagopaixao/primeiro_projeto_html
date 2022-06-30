@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: rgb(73, 228, 106);
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: yellow;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+ul > li img {
+    width: 10%;
+}
