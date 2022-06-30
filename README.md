@@ -1,2 +1,2 @@
 # primeiro_projeto_html
-Projeto para aprender o b´sico de HTML e CSS
+Projeto para aprender o básico de HTML e CSS
